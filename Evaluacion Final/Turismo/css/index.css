@@ -1,0 +1,57 @@
+.fondo{
+background: url(../img/fondo.jpg);
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+width: 100%;
+height: 100%;
+}
+
+
+.barra-superior{
+  min-height: 4rem;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-left: 1%;
+}
+.boton{
+  margin-top: 2%;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #01579b;
+  text-align: center;
+  color: white;
+}
+.logo{
+  height: 200px;
+  margin-top: 2%;
+}
+.margin{
+  margin-bottom: 20px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.collection{
+  background-color: #bdbdbd;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.imagen{
+  height: 100%;
+  width: 100%;
+}
+
+.margen{
+    margin-top: 3%;
+}
+
+.imagen2{
+  height: 100%;
+}
+.justificar{
+  text-align: justify;
+}

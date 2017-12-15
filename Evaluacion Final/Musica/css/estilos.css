@@ -1,0 +1,93 @@
+.cinema-body {
+background: url(../img/fondo_nav.jpg);
+
+}
+
+.navbar-inverse, .navbar {
+  background: url(../img/fondo_nav.jpg);
+  min-height: 10%;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 1%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 280px;
+}
+
+.nav{
+  height: 300px;
+  background-color: black;
+}
+.avicii{
+  width: 100%;
+  margin-top: 5%;
+}
+
+.imgcom{
+width: 80px;
+height: 80px;
+}
+
+#comment
+{
+  width: 100%;
+  height: 80px;
+  display: inline;
+}
+
+.logo {width: 100px;}
+
+.contorno{
+  border: 1px solid black;
+  background-color: #E0E0E0;
+  border-radius: 10px;
+  font-size: 1.5em;
+  color: black;
+  padding: 1%;
+
+  }
+
+  .topmenu div:hover{
+    color: #E0E0E0;
+    background-color: #000099;
+  }
+
+  .lista li:hover{
+      background-color: #E0E0E0;
+  }
+
+.accesos{
+  background-color: black;
+}
+
+.parrafo{
+  text-align: justify;
+}
+
+.margintop{
+  margin-top: 5px;
+}
+
+.redes-sociales a:hover
+{
+  opacity: 0.5;
+}
+
+@media (max-width: 420px) {
+  .alt{margin-top: 30%; text-align: center;}
+}
+@media (min-width: 420px) and (max-with: 900px){
+.alt{margin-top: 30%;}
+
+
+}
+
+@media (min-width:900px) {
+
+  .alt{margin-top: 18%;}
+
+.contorno{
+  margin-left: 17px;
+  width: 15%;
+}
+}

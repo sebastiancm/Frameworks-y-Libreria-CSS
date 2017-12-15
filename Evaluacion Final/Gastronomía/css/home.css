@@ -1,0 +1,90 @@
+.logo-img{
+  width: 30%;
+}
+.backbody{
+background: url(../img/fondo.jpg);
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+width: 100%;
+height: 100%;
+}
+
+.opacidad{background: rgba(153, 255, 204, 0.3);}
+
+.opacidad2{background: rgba(153, 255, 204, 0.7);}
+
+.tamaño{height: 80px;}
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+}
+
+.alto{
+  height: 900px;
+}
+.alineacion{
+  text-align: justify;
+  margin-top: 1%;
+}
+.align{
+  text-align: center;
+  color: white;
+}
+
+.user img{
+  height: 60px;
+  width: 60px;
+}
+
+
+
+.center{text-align: center;}
+
+.contenedor{
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.contenedor:hover{
+  background-color: rgba(153, 255, 204, 0.5);
+}
+.nav li {
+  text-align: left;
+  }
+
+.nav a{color: white;}
+
+.callout{
+  background-color: rgba(153, 255, 204, 0.7);
+}
+
+.design img{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 100px;
+  width: 200px;
+}
+
+.design2 img{
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+img:hover{
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+a{
+  color: black;
+}
+
+.design{
+  text-align: left;
+  color: white;
+}
+
+.persona{height: 80px; margin-left: 10px;}
